@@ -1,0 +1,11 @@
+commit 1aef8c6f1d3499fefef9d9aed20e20734a6f9fd1 (HEAD -> master)
+Author: isidoraantic <isidora.antikj@students.finki.ukim.mk>
+Date:   Sun Apr 9 22:58:37 2023 +0200
+
+    Add java class
+
+commit a4cb076b3f723682d93439df8495c4cc9006eb0b
+Author: isidoraantic <isidora.antikj@students.finki.ukim.mk>
+Date:   Sun Apr 9 22:54:21 2023 +0200
+
+    Initial commit
