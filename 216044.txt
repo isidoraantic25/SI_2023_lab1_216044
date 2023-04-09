@@ -1,0 +1,28 @@
+prva laboratoriskaa vezba 216044
+
+Po kreiranje na akauntot vo git so mkdir kreirame local repo SI_2023_lab1_216044,
+vlez vo local repo go ostvaruvame so cd SI_2023_lab1_216044, kreiranje
+na repo vo toj direktorium so git init;
+
+povrzuvanje na local repo so: git remote add origin i link http//:github.com/isidoraantic25/SI_2023_lab1_216044;
+
+pravenje na tekstualna datoteka so edna linija tekst i toa  so echo"Isidora Antikj 216044", 
+git add README.md ja stavame datotekata vo stage area,
+git commit -m "Initial commit" pravime comit i pisuvame komentar za nego;
+
+git add SiLab1.java dodavame java dokument, git commit -m "Add java class" pravime comit i pisuvame komentar za nego;
+
+git push --all(pravime push t. upload na site novi ili modificirani fajlovi-upload od local repo na remote repo);
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+git log da iskopirame sodrzina za vo logs.txt
+git chechkout master - se prefrlame na master
+git add logs.txt dodavame fajl logs.txt
+git commit -m "Final commit"
+git add 216044.txt -go dodavame ovoj fajl
+git commit -m "Final commit"
+
+git push --all(pravime push t. upload na site novi ili modificirani fajlovi-upload od local repo na remote repo)
+
+
+
+
